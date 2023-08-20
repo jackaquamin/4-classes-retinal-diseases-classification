@@ -2,6 +2,7 @@
 MobileNetV2-based Deep Learning for Retinal Disease Classification on a Mobile Application
 
 Dataset from Kaggle link: https://www.kaggle.com/code/ahmedmohsen2002/the-power-of-transfer-learning/input
+
 ![cat](https://github.com/jackaquamin/4-classes-retinal-diseases-classification/assets/122338333/38d48590-336d-4ea0-8813-6fa655b88bd5)
 ![dr](https://github.com/jackaquamin/4-classes-retinal-diseases-classification/assets/122338333/8c0b705d-31db-4b74-bcc2-6873056d2904)
 ![glc](https://github.com/jackaquamin/4-classes-retinal-diseases-classification/assets/122338333/cd153ef6-d9a6-4299-9026-24b20951651a)
